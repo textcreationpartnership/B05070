@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rules of the schools of the Royal Colledge at Holy-rood-house</title>
+            <author>Edinburgh (Scotland). Royal College at Holyrood House.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05070</idno>
+            <idno type="STC">Wing R2260</idno>
+            <idno type="STC">ESTC R182882</idno>
+            <idno type="EEBO-CITATION">53981562</idno>
+            <idno type="OCLC">ocm 53981562</idno>
+            <idno type="VID">180316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180316)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rules of the schools of the Royal Colledge at Holy-rood-house</title>
+                  <author>Edinburgh (Scotland). Royal College at Holyrood House.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Holy Rood-House, Printed by Mr. P.B. Enginneer and Printer to the King's Most Excellent Majesty, for his Houshold, Chappel and Colledge,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>M.DC.LXXXVII [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter.</note>
+                  <note>Imperfect: torn with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edinburgh (Scotland). --  Royal College at Holyrood House --  Regulations --  17th century.</term>
+               <term>Public schools --  Scotland --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180316:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>RULES OF THE SCHOOLS OF THE ROYAL COLLED<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> AT HOLY-ROOD-HOUSE</head>
+            <p n="1">
+               <seg rend="decorInit">T</seg>HE Intention of Opening theſe Schools is, to Teach Youth Vertue an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> They ſhall be taught <hi>Gratis;</hi> nor ſhall they be at any farther Charg<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pences than the buying of their own Pens. Ink, Paper and Books.</p>
+            <p n="2">II. Theſe Schools are common to all, of what condition ſoever <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall be excluded, when they ſhall be thought fit to begin to learn <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Write ſufficiently well: And in theſe Schools ſhall be taug<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht Greek an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> alſo Poetry, Rhetoric, and Philoſophy, <hi>&amp;c.</hi> as they ſhall riſe to higher S<gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="3">III. And although Youths of different Profeſſions, whether Cat<gap reason="illegible: page cropped" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Proteſtants, come to theſe Schools; yet in Teaching all, there ſhall <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtinction made, but all ſhall be Taught with equal Diligence and Care, <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one ſhall be promoted according to his Deſerts.</p>
+            <p n="4">IV. There ſhall not be, either by Maſters or Scholars, any tamperin<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ling to perſwade any one-from the Profeſſion of his own Religion; <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall be all freedom for every one to practiſe what Religion he ſhall pleaſe, and none ſhall be leſs eſteemed or  <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for being of a different Religion from others.</p>
+            <p n="5">V. None ſhall upbraid or reproach any one on the account of Religion; and when any Exerciſe of Reli<gap reason="illegible: page cropped" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be practiſed, as hearing Maſs, Catechiſing, or Preaching, or any other it ſhall be lawful for any Proteſt<gap reason="illegible: page cropped" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <gap reason="illegible: page cropped" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>out any moleſtation or trouble, to abſent himſelf from ſuch publick Exerciſe<g ref="char:punc">▪</g> if he pleaſe.</p>
+            <p n="6">VI. All ſhall be taught to keep God's Commandments, and therefore none ſhall be permitted to Lye, <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Curſe, or talk uncivil Diſcourſe; Nor ſhall fight or quarrel with one another; and he who ſhall be obſerve<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> theſe Duties, ſhall be puniſhed according to his demerit: And when any one, for theſe, or other Faults, ſh<gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> judg'd to any Chaſtiſement, if he ſhall refuſe to receive ſuch Chaſtiſement quietly, or be ſtubborn, he ſhall b<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Schools, and not be re-admitted again, until he ſhall have given ſatisfaction for ſuch his Fault.</p>
+            <p n="7">VII. All ſhall be in their reſpective Schools by a quarter before Eight in the Morning, and ſhall there ſtay <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and a half: Again at a quarter before Two, until half an hour after Four. And all Parents are earneſtly deſir<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their Children timely to School, and not eaſily to ſtay them at home; for the neglect of ſome Days may  <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Profit of many Weeks and Months: And they are to ſend them decently Clad.</p>
+            <p n="8">VIII The other hours of the day they ſhall Study at their own Homes, and prepare thoſe Exerciſes, which th<gap reason="illegible: page cropped" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>  
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Schools appoint to be brought, at their next coming to the Schools. And therefore all Parents are <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> allow their reſpective Scholars ſuch conveniency for their Studies at their own Houſe, that they may comply <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Duties which are appointed them.</p>
+            <p n="9">IX. All are required to be exact and diligent, in daily frequenting the Schools, and being there, none are <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without leave of their Maſter: and when any one ſhall be abſent from School, he ſhall the next day he co<gap reason="illegible: page cropped" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from his Parents a Ticket of the lawfulneſs of ſuch his Abſence: Yet they ſhall have every Week two After<gap reason="illegible: page cropped" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> creation, in which they come not to School; unleſs a Holy-day happen that Week, which ſhall then be th<gap reason="illegible: page cropped" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>laxation.</p>
+            <p n="10">X. Such as comes from the Writing-School, and hav<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Entrance in Latin, are to be received but three <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Year, <hi>viz</hi> at the beginning of the <hi>New Year,</hi> at <hi>Easter,</hi> and about our <hi>Lady-day</hi> in <hi>September.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>HOLY-ROOD-HOUSE, Printed by Mr. <hi>P. B.</hi> Enginneer and Printer to the King's Moſt Excellent Majeſty, for his Houſe Chappel and Colledge; M.DC.LXXXVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
